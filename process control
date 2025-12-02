@@ -1,0 +1,5 @@
+fork() in C
+ps
+kill PID
+sleep 5
+getpid()
