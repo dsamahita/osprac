@@ -1,0 +1,4 @@
+cd folder
+mkdir test
+rmdir emptyfolder
+ls -l
