@@ -1,0 +1,4 @@
+ls > out.txt
+cat < input.txt
+echo "hello" >> file.txt
+ls | grep txt
