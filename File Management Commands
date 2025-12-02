@@ -1,0 +1,10 @@
+cat a.txt
+cp a.txt b.txt
+rm file.txt
+mv old new
+cmp file1 file2
+comm file1 file2
+diff f1 f2
+find . -name "*.txt"
+grep "word" file.txt
+awk '{print $1}' file.txt
