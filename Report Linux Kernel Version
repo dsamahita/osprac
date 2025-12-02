@@ -1,0 +1,13 @@
+#include <iostream>
+#include <cstdlib>
+using namespace std;
+
+int main() {
+    cout << "Kernel Version:\n";
+    system("uname -r");
+
+    cout << "\nCPU Information:\n";
+    system("lscpu");
+
+    return 0;
+}
